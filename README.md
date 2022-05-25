@@ -1,9 +1,13 @@
 ## About application
 
+I have done this:
+
 - Firstly setup laravel project in local using
 
     -   composer create-project laravel/laravel example-app
- 
+
+For you download from git then perform below steps:
+
 - then go to  example-app folder using 
 
     -   cd example-app
